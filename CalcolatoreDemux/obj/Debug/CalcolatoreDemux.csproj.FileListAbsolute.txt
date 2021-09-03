@@ -1,0 +1,10 @@
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\bin\Debug\CalcolatoreDemux.exe.config
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\bin\Debug\CalcolatoreDemux.exe
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\bin\Debug\CalcolatoreDemux.pdb
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.csprojAssemblyReference.cache
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.Properties.Resources.resources
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.csproj.GenerateResource.cache
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.csproj.CoreCompileInputs.cache
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.exe
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.pdb
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Debug\CalcolatoreDemux.Form1.resources
