@@ -7,3 +7,4 @@ C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Release\Calcol
 C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Release\CalcolatoreDemux.csproj.CoreCompileInputs.cache
 C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Release\CalcolatoreDemux.exe
 C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Release\CalcolatoreDemux.pdb
+C:\Users\akila\source\repos\CalcolatoreDemux\CalcolatoreDemux\obj\Release\CalcolatoreDemux.csprojAssemblyReference.cache

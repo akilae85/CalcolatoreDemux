@@ -349,7 +349,7 @@ namespace CalcolatoreDemux
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(141, 26);
             this.label12.TabIndex = 12;
-            this.label12.Text = "Tot mS";
+            this.label12.Text = "Tot S";
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label14
@@ -519,7 +519,7 @@ namespace CalcolatoreDemux
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(141, 26);
             this.label6.TabIndex = 12;
-            this.label6.Text = "Tot mS";
+            this.label6.Text = "Tot S";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label1
@@ -731,7 +731,7 @@ namespace CalcolatoreDemux
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(141, 26);
             this.label19.TabIndex = 12;
-            this.label19.Text = "Tot mS";
+            this.label19.Text = "Tot S";
             this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label21
@@ -923,7 +923,7 @@ namespace CalcolatoreDemux
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(141, 26);
             this.label26.TabIndex = 12;
-            this.label26.Text = "Tot mS";
+            this.label26.Text = "Tot S";
             this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label28

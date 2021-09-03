@@ -43,7 +43,7 @@ namespace CalcolatoreDemux
                 label_stretch.Text = "0";
             }
             
-            delay = (k1_v - k1_a) / 1000;           
+            delay = (k1_v - k1_a) * 1000;           
             label_delay.Text = delay.ToString();
 
         }
@@ -51,24 +51,56 @@ namespace CalcolatoreDemux
         private void calcola_k1_v()
         {
             k1_v = k1_v_h.Value * 3600000 + k1_v_m.Value * 60000 + k1_v_s.Value * 1000 + k1_v_ms.Value;
+            try
+            {
+                k1_v /= 1000;
+            } catch(Exception ex)
+            {
+                k1_v = 0;
+            }
+
             label_k1_v.Text = k1_v.ToString();
         }
 
         private void calcola_k1_a()
         {
             k1_a = k1_a_h.Value * 3600000 + k1_a_m.Value * 60000 + k1_a_s.Value * 1000 + k1_a_ms.Value;
+            try
+            {
+                k1_a /= 1000;
+            }
+            catch (Exception ex)
+            {
+                k1_a = 0;
+            }
             label_k1_a.Text = k1_a.ToString();
         }
 
         private void calcola_k2_v()
         {
             k2_v = k2_v_h.Value * 3600000 + k2_v_m.Value * 60000 + k2_v_s.Value * 1000 + k2_v_ms.Value;
+            try
+            {
+                k2_v /= 1000;
+            }
+            catch (Exception ex)
+            {
+                k2_v = 0;
+            }
             label_k2_v.Text = k2_v.ToString();
         }
 
         private void calcola_k2_a()
         {
             k2_a = k2_a_h.Value * 3600000 + k2_a_m.Value * 60000 + k2_a_s.Value * 1000 + k2_a_ms.Value;
+            try
+            {
+                k2_a /= 1000;
+            }
+            catch (Exception ex)
+            {
+                k2_a = 0;
+            }
             label_k2_a.Text = k2_a.ToString();
         }
 
